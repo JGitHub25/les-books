@@ -5,6 +5,7 @@ const routes = [
   { name: "Wishlists", path: "/wishlists" },
   { name: "Books", path: "/books" },
   { name: "Landing", path: "/landing" },
+  { name: "Register", path: "/register" },
 ];
 
 export const Navbar = () => {
