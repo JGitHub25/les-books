@@ -1,3 +1,12 @@
+# Project description
+
+List of books
+The idea behind this challenge is to build a platform where the user can create a book wish list, this means that the user can look for books by name, author, ISBN, Subjects and other categories that you, as developer, want to include, then user can add books to one or several lists created in the past or into a new wish list.
+The user will be able to mark a book as read and this should impact every time that this same book is within other wish lists. The user will be able to delete a book from a wish list.
+The user also can make the wish list public or private, a private wish list can be only seen by the owner and a public wish list can be seen by anyone. The user will be able to share his/her wish lists via URL.
+To do this challenge, you can use the open library api, handle the data with firebase or another platform. The projects has to be created in React with typescript (components must have typed props), to implement Formik and yup within the forms, to have authentication (basic auth, no need to use a web token unless you want to explore that path c; ) and to have a state management system based on redux.
+https://openlibrary.org/developers/api
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
